@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58fc71a6-70de-17ac-6a69-64602f8745c0
 resourcetype: Other
 title: lab1_DSA.zip
 uid: 6672e906-0fb3-e526-30a7-2e9e2e2e693b

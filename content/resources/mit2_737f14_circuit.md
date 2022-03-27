@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 58fc71a6-70de-17ac-6a69-64602f8745c0
 resourcetype: Document
 title: 2.737 Mechatronics Circuit Diagram
 uid: eae52908-2dee-e213-4d6f-3c7c83b537d8
