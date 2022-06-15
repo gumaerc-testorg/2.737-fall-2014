@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of laboratory topics and the final
+  project for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
