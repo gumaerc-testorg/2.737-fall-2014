@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the laboratory assignments for the course, associated
+  files, and information on the schedule, pre-labs, and lab reports.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 58fc71a6-70de-17ac-6a69-64602f8745c0
 ---
@@ -37,11 +42,11 @@ Lab 0: Controls Review; Introduction to LabVIEW programming on the myRIO
 {{< tdopen >}}
 
 
-[Pre-lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0-pre)
+{{% resource_link f088611f-d39a-0bfa-ed89-fee9e07d4db7 "Pre-lab 0 (PDF)" %}}
 
-[Lab 0 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab_0)
+{{% resource_link ec25f146-5471-d73a-688d-e2c4fae0d254 "Lab 0 (PDF)" %}}
 
-[Lab 0 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab0)
+{{% resource_link 1c54aa24-944b-89bf-7928-46c7d6772a3f "Lab 0 LabVIEW Files (ZIP)" %}}
 
 
 {{< tdclose >}}
@@ -57,11 +62,11 @@ Lab 1: Real-time Control; Using the myRIO with LabVIEW to implement closed-loop 
 {{< tdopen >}}
 
 
-[Lab 1 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1)
+{{% resource_link 9b6dd9e7-fb36-a4f7-ea0d-cf143a56dc48 "Lab 1 (PDF)" %}}
 
-[Lab 1 Addendum (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab1_addendum)
+{{% resource_link fd6ed29a-34b3-98fa-b44c-e00caac528ef "Lab 1 Addendum (PDF)" %}}
 
-[Lab 1 LabVIEW Files (ZIP)]({{< baseurl >}}/resources/lab1_dsa)
+{{% resource_link 6672e906-0fb3-e526-30a7-2e9e2e2e693b "Lab 1 LabVIEW Files (ZIP)" %}}
 
 
 {{< tdclose >}}
@@ -77,13 +82,13 @@ Lab 2: Analog Feedback Systems
 {{< tdopen >}}
 
 
-[Lab 2 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab2)
+{{% resource_link da5535c2-48f2-3e81-c969-c9883c0d1198 "Lab 2 (PDF)" %}}
 
-[Circuit Diagram (PDF)]({{< baseurl >}}/resources/mit2_737f14_circuit)
+{{% resource_link eae52908-2dee-e213-4d6f-3c7c83b537d8 "Circuit Diagram (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
+[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
+[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
 
 
 {{< tdclose >}}
@@ -99,11 +104,11 @@ Lab 3: Electronic Scale
 {{< tdopen >}}
 
 
-[Lab 3 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab3)
+{{% resource_link 3e1dc30b-6b81-6a62-2524-96d42fe29e84 "Lab 3 (PDF)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
+[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
+[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
 
 
 {{< tdclose >}}
@@ -117,7 +122,7 @@ Lab 3: Electronic Scale
 Lab 4: AC-Driven and Demodulated Electronic Scale
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab 4 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab4)
+{{% resource_link 30c33b4c-225e-f504-e4ef-4d56fca50f9e "Lab 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +134,7 @@ Lab 4: AC-Driven and Demodulated Electronic Scale
 Lab 5: Brushless Motor Control
 {{< tdclose >}}
 {{< tdopen >}}
-[Lab 5 (PDF)]({{< baseurl >}}/resources/mit2_737f14_lab5)
+{{% resource_link bf08200e-8344-f69f-5b8a-4ac923ea6d53 "Lab 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
