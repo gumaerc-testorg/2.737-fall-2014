@@ -5,6 +5,7 @@ file: /courses/2-737-mechatronics-fall-2014/6672e9060fb3e52630a72e9e2e2e693b_lab
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1_DSA.zip
 uid: 6672e906-0fb3-e526-30a7-2e9e2e2e693b
 ---
 This is the special file regarding lab 1 DSA.
-

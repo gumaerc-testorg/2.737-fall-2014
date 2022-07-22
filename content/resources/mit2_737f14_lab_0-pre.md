@@ -5,6 +5,7 @@ file: /courses/2-737-mechatronics-fall-2014/f088611fd39a0bfaed89fee9e07d4db7_MIT
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2.737 Mechatronics Pre-lab 0
 uid: f088611f-d39a-0bfa-ed89-fee9e07d4db7
 ---
 This file contains information regarding pre-lab 0.
-

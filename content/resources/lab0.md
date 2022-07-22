@@ -5,6 +5,7 @@ file: /courses/2-737-mechatronics-fall-2014/1c54aa24944b89bf792846c7d6772a3f_Lab
 file_type: application/zip
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lab0.zip
 uid: 1c54aa24-944b-89bf-7928-46c7d6772a3f
 ---
 This is the special file regarding lab 0.
-
