@@ -14,7 +14,7 @@ Laboratory Assignments
 
 Some of the problems in the laboratory assignments come from [Prof. Trumper's archive of problems and solutions (PDF – 10.1MB)](/ans7870/2/2.14/s14/MIT2_14S14_Prob_Archive.pdf).
 
-The class will use {{% resource_link "8023c0f1-36ae-4b35-9958-fe555304d048" "LabVIEW" %}}—based control electronics, and it will be best if you have a running version of LabVIEW 2013 installed on Windows on your own laptop. We do not assume prior experience with LabVIEW, but you will need to learn it during the course. MIT students borrow an {{% resource_link "8bec941e-c8d9-444e-9ee5-fe9f50a2f061" "NI myRIO unit" %}} during the course.
+The class will use [LabVIEW](http://www.ni.com/labview/)—based control electronics, and it will be best if you have a running version of LabVIEW 2013 installed on Windows on your own laptop. We do not assume prior experience with LabVIEW, but you will need to learn it during the course. MIT students borrow an [NI myRIO unit](http://www.ni.com/myrio/) during the course.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -86,9 +86,9 @@ Lab 2: Analog Feedback Systems
 
 {{% resource_link eae52908-2dee-e213-4d6f-3c7c83b537d8 "Circuit Diagram (PDF)" %}}
 
-{{% resource_link "124b67ec-d4c8-4ad7-996d-d0755ff0e630" "PA10 Datasheet (PDF)" %}}
+[PA10 Datasheet (PDF)](https://www.rcscomponents.kiev.ua/product/PA10A.html)
 
-{{% resource_link "41cbd662-6511-4049-b3f9-237b3c67e74c" "LM741 Datasheet (PDF)" %}}
+[LM741 Datasheet (PDF)](http://www.ti.com/lit/ds/symlink/lm741.pdf)
 
 
 {{< tdclose >}}
@@ -106,9 +106,9 @@ Lab 3: Electronic Scale
 
 {{% resource_link 3e1dc30b-6b81-6a62-2524-96d42fe29e84 "Lab 3 (PDF)" %}}
 
-{{% resource_link "1f42296f-ef1d-4075-ad34-6178179db5ac" "LT1167 Datasheet (PDF)" %}}
+[LT1167 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1167fc.pdf)
 
-{{% resource_link "34113704-7b85-42c5-a64f-f2bdeff303f6" "LT1021 Datasheet (PDF)" %}}
+[LT1021 Datasheet (PDF)](http://cds.linear.com/docs/en/datasheet/1021fc.pdf)
 
 
 {{< tdclose >}}
