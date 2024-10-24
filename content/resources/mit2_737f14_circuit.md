@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding circuit diagram.
-file: /courses/2-737-mechatronics-fall-2014/eae529082deee2134d6f3c7c83b537d8_MIT2_737F14_Circuit.pdf
+file: /ol-ocw-studio-app/courses/2-737-mechatronics-fall-2014/eae529082deee2134d6f3c7c83b537d8_MIT2_737F14_Circuit.pdf
 file_size: 181387
 file_type: application/pdf
 learning_resource_types:
