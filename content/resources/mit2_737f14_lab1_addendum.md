@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lab 1 addendum.
-file: /ol-ocw-studio-app/courses/2-737-mechatronics-fall-2014/fd6ed29a34b398fab44ce00caac528ef_MIT2_737F14_Lab1_Addendum.pdf
+file: /courses/2-737-mechatronics-fall-2014/fd6ed29a34b398fab44ce00caac528ef_MIT2_737F14_Lab1_Addendum.pdf
 file_size: 92671
 file_type: application/pdf
 learning_resource_types:
