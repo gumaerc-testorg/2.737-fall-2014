@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding lab 0.
-file: /ol-ocw-studio-app/courses/2-737-mechatronics-fall-2014/1c54aa24944b89bf792846c7d6772a3f_Lab0.zip
+file: /courses/2-737-mechatronics-fall-2014/1c54aa24944b89bf792846c7d6772a3f_Lab0.zip
 file_size: 256599
 file_type: application/zip
 learning_resource_types:
