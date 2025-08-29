@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the laboratory assignments for the course, associated
   files, and information on the schedule, pre-labs, and lab reports.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 58fc71a6-70de-17ac-6a69-64602f8745c0
