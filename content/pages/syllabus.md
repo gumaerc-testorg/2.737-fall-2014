@@ -40,7 +40,7 @@ We also assume that you have a basic familiarity with electronic circuits and op
 Laboratory Assignments
 ----------------------
 
-The class will use [LabVIEW](http://www.ni.com/labview/)—based control electronics, and it will be best if you have a running version of LabVIEW 2013 installed on Windows on your own laptop. We do not assume prior experience with LabVIEW, but you will need to learn it during the course. MIT students borrow an [NI myRIO unit](http://www.ni.com/myrio/) during the course.
+The class will use {{% resource_link "c14830cb-ae45-4e82-a549-b7ee147e3031" "LabVIEW" %}}—based control electronics, and it will be best if you have a running version of LabVIEW 2013 installed on Windows on your own laptop. We do not assume prior experience with LabVIEW, but you will need to learn it during the course. MIT students borrow an {{% resource_link "a3ac333c-2ebc-4b03-a48b-d408f9b9d8ae" "NI myRIO unit" %}} during the course.
 
 ### Schedule
 
