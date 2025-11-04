@@ -43,7 +43,7 @@
     "website": "2-737-mechatronics-fall-2014"
   },
   "course_title": "Mechatronics",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
   "course_description": "This course is an introduction to designing mechatronic systems, which require integration of the mechanical and electrical engineering disciplines within a unified framework. There are significant laboratory-based design experiences. Topics covered in the course include: Low-level interfacing of software with hardware; use of high-level graphical programming tools to implement real-time computation tasks; digital logic; analog interfacing and power amplifiers; measurement and sensing; electromagnetic and optical transducers; control of mechatronic systems.\n",
   "department_numbers": [
